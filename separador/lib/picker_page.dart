@@ -117,14 +117,11 @@ class _PickerPageState extends State<PickerPage>
   Future<void> _launchURL(String url) async
   {
     final Uri uri = Uri.parse(url);
-    if (await canLaunchUrl(uri))
-    {
-      await launchUrl(uri);
-    }
-    else
-    {
-      throw 'Não foi possível abrir o URL: $url';
-    }
+    
+    await launchUrl(
+      uri,
+      mode: LaunchMode.externalApplication, // Isso força o link a ser aberto no navegador
+    );
   }
 
   // Cria um botão para selecionar arquivos
