@@ -39,7 +39,7 @@ No iOS, as permissões necessárias incluem:
     ```
     Define as rotas do aplicativo.
 
-- **example_audio_page.dart**: Responsável pela reprodução e manipulação dos arquivos de áudio.
+- **example_audio_page.dart**: Responsável pela reprodução e manipulação dos arquivos de áudio utilizados como exemplos.
 
   - Funções principais:
     ```dart
@@ -74,7 +74,7 @@ No iOS, as permissões necessárias incluem:
     ```
     Atualiza o volume do áudio.
 
-- **example_image_page.dart**: Gerencia a exibição das imagens dos sinais de áudio.
+- **example_image_page.dart**: Gerencia a exibição das imagens dos sinais de áudio utilizados como exemplo.
 
   - Função principal:
     ```dart
@@ -119,7 +119,7 @@ No iOS, as permissões necessárias incluem:
 
 - **video_intro_page.dart**: Reproduz o vídeo introdutório do aplicativo.
 
-- **view_audio_page.dart**: Gerencia a reprodução dos áudios separados.
+- **view_audio_page.dart**: Gerencia a reprodução dos áudios manipulados.
 
   - Funções principais:
     ```dart
