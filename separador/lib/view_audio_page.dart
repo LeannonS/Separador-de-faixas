@@ -388,6 +388,8 @@ class ViewAudioPageState extends State<ViewAudioPage>
         backgroundColor: const Color.fromARGB(255, 0, 0, 0),
 
         body: TabBarView(
+          physics: const NeverScrollableScrollPhysics(), // Desativa mudar a tela para o lado arrastando
+
           children: [
             _body(),
 
