@@ -147,6 +147,10 @@ Se você deseja realizar a separação de faixas ou aplicar reverb em um desktop
 2. Faça o upload do arquivo `Sinais_Sistemas.ipynb`.
 3. Siga as instruções no notebook para obter a separação ou aplicar o reverb na música desejada.
 
+## Link para instalação do APK
+
+Para fazer o download do apk do aplicativo, basta entrar no link a seguir e seguir as instruções de download: https://www.mediafire.com/file/m8qrlo20y495v3y/app-release.apk/file
+
 ## Considerações Finais
 
 O aplicativo "Just Voice" é uma solução prática e intuitiva para separar e manipular faixas musicais. Ele pode ser utilizado tanto em dispositivos móveis quanto em desktops, oferecendo flexibilidade para os usuários que desejam editar suas músicas de maneira eficiente.
