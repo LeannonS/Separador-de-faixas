@@ -191,6 +191,25 @@ Para instalar essas dependências, você pode usar o pip:
     pip install spleeter yt-dlp librosa pydub matplotlib
 ```
 
+Além disso, certifique-se de que o ffmpeg esteja instalado em seu sistema, pois é necessário para a manipulação de arquivos de áudio.
+
+## Como Usar
+
+1. **Download de Áudio**: Insira o link do vídeo do YouTube no código e ele baixará automaticamente o áudio no formato .mp3.
+2. **Separação de Faixas**: Escolha uma das opções de separação (2, 4 ou 5 faixas) e o áudio será separado em componentes.
+3. **Efeito de Reverb**: Utilize a opção de reverb para aplicar o efeito utilizando um segundo arquivo de áudio como base.
+4. **Geração de Gráficos**: Após a separação ou manipulação do áudio, gráficos de amplitude são gerados automaticamente para visualização.
+
+### Exemplo de Execução
+
+O código principal pode ser rodado com diferentes configurações:
+
+- **Separar em 2 faixas**: Vocais e acompanhamento.
+- **Separar em 4 faixas**: Vocais, bateria, baixo, e acompanhamento.
+- **Separar em 5 faixas**: Vocais, bateria, baixo, piano, e acompanhamento.
+- **Aplicar Reverb**: Convolução entre dois arquivos de áudio para adicionar reverb.
+- Os resultados são salvos em uma pasta local, organizados em arquivos de áudio e imagens.
+
 ## Link para instalação do APK
 
 Para fazer o download do apk do aplicativo, basta entrar no link a seguir e seguir as instruções de download: https://www.mediafire.com/file/m8qrlo20y495v3y/app-release.apk/file
