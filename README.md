@@ -185,7 +185,11 @@ Antes de rodar o projeto, instale as seguintes dependências:
 - **Pydub**
 - **Matplotlib**
 
+Para instalar essas dependências, você pode usar o pip:
 
+```dart
+    pip install spleeter yt-dlp librosa pydub matplotlib
+```
 
 ## Link para instalação do APK
 
