@@ -165,6 +165,25 @@ Se você deseja realizar a separação de faixas ou aplicar reverb em um desktop
 5. **Matplotlib**: Para geração de gráficos de amplitude de áudio.
 6. **Subprocess**: Para a execução de comandos externos, como o download de áudio.
 
+##Estrutura das Opções
+
+O projeto oferece diferentes modos de operação, selecionados por meio de uma variável de controle:
+
+- **Opção 0**: Separação de áudio em 2 partes (vocais e acompanhamento).
+- **Opção 1**: Separação de áudio em 4 partes (vocais, bateria, baixo, e acompanhamento).
+- **Opção 2**: Separação de áudio em 5 partes (vocais, bateria, baixo, piano, e acompanhamento).
+- **Opção 3**: Aplicação de efeito de reverb ao áudio utilizando outro arquivo como base.
+
+##Requisitos de instalação
+
+Antes de rodar o projeto, instale as seguintes dependências:
+
+- **Python 3.x**
+- **yt-dlp**
+- **Spleeter**
+- **Librosa**
+- **Pydub**
+- **Matplotlib**
 
 ## Link para instalação do APK
 
