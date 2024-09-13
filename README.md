@@ -224,5 +224,5 @@ O aplicativo "Just Voice" é uma solução prática e intuitiva para separar e m
 - João Marcos Silva Hess
 - João Pedro Freitas de Paula Dias
 - Leandro Sousa Costa
-- Rafael Augusto Moreira
+- Rafael Augusto Campos Moreira
 - Victor Ramos de Alburquerque Cabral
