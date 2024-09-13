@@ -147,6 +147,15 @@ Se você deseja realizar a separação de faixas ou aplicar reverb em um desktop
 2. Faça o upload do arquivo `Sinais_Sistemas.ipynb`.
 3. Siga as instruções no notebook para obter a separação ou aplicar o reverb na música desejada.
 
+## Funcionalidades:
+
+- **Separação de faixas de áudio**: Usando o Spleeter, você pode separar o áudio em múltiplos componentes, como vocais, bateria, baixo, piano e outros.
+- **Aplicação de reverb**: Aplica o efeito de reverb a um arquivo de áudio, utilizando um arquivo base para convolução.
+- **Download de áudio de vídeos do YouTube**: Automatiza o download de faixas de áudio no formato .mp3 a partir de vídeos do YouTube, usando o yt-dlp.
+- **Geração de gráficos**: Cria gráficos que representam o envelope do áudio, visualizando a amplitude ao longo do tempo.
+- **Conversão de formatos de áudio**: Converte arquivos de áudio para outros formatos (por exemplo, de .wav para .mp3).
+- **Renomeação automática de faixas**: Renomeia os arquivos de áudio baseando-se em suas traduções para o português (ex: "vocals" para "vocais").
+
 ## Link para instalação do APK
 
 Para fazer o download do apk do aplicativo, basta entrar no link a seguir e seguir as instruções de download: https://www.mediafire.com/file/m8qrlo20y495v3y/app-release.apk/file
