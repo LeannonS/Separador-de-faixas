@@ -217,3 +217,12 @@ Para fazer o download do apk do aplicativo, basta entrar no link a seguir e segu
 ## Considerações Finais
 
 O aplicativo "Just Voice" é uma solução prática e intuitiva para separar e manipular faixas musicais. Ele pode ser utilizado tanto em dispositivos móveis quanto em desktops, oferecendo flexibilidade para os usuários que desejam editar suas músicas de maneira eficiente.
+
+## Colaboradores
+
+- Alvaro Augusto José Silva
+- João Marcos Silva Hess
+- João Pedro Freitas de Paula Dias
+- Leandro Sousa Costa
+- Rafael Augusto Moreira
+- Victor Ramos de Alburquerque Cabral
